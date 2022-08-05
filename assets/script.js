@@ -1,5 +1,5 @@
-let quantity = document.querySelector("#total-quantity");
+let quantity = document.querySelector("#total-quantity")
 
-let lessquantity = document.querySelector(#$quantity-down");
+let lessQuantity = document.querySelector(#$quantity-down")
 
-let morequanntity = document.querySelector(#$quantity-up");
+let moreQuantity = document.querySelector(#$quantity-up")
